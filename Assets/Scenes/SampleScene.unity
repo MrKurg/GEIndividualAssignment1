@@ -1273,6 +1273,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1219023727176144330, guid: d7f1d8dca13e20a4f8ea50f55ecfee1f, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8482890395000987865, guid: d7f1d8dca13e20a4f8ea50f55ecfee1f, type: 3}
       propertyPath: m_Name
       value: Gem_Green (1)
@@ -1792,6 +1796,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1219023727176144330, guid: d7f1d8dca13e20a4f8ea50f55ecfee1f, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8482890395000987865, guid: d7f1d8dca13e20a4f8ea50f55ecfee1f, type: 3}
       propertyPath: m_Name
       value: Gem_Green (2)
@@ -2016,6 +2024,10 @@ PrefabInstance:
     serializedVersion: 2
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1219023727176144330, guid: d7f1d8dca13e20a4f8ea50f55ecfee1f, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8482890395000987865, guid: d7f1d8dca13e20a4f8ea50f55ecfee1f, type: 3}
       propertyPath: m_Name
       value: Gem_Green
