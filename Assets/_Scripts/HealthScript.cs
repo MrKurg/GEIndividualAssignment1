@@ -21,6 +21,7 @@ public class HealthScript : MonoBehaviour
     {
 
         health -= damagedealt;
+
         if (health <= 0)
         {
 
